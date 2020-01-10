@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-published: false
+title: "I am happy to announce that I have accepted the offer from Facebook as a PhD intern for summer 2020."
+published: True
 ---
 
 **Hello world**, this is my first Jekyll blog post.
