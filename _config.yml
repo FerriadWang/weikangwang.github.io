@@ -24,14 +24,14 @@ projects:
   limit: 20
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
     # - repo-name
 
 social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: weikang.wang.100
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
