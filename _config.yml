@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 20
+  limit: 6
   exclude:
     archived: false
     forks: true
@@ -53,7 +53,6 @@ topics:
 
   - name: System & Infrastructure
 
-  - name: Synchrophasor
-  - name: Power systems
+  - name: Synchrophasor, PMU
     #web_url: https://github.com/topics/sass
     #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
